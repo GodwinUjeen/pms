@@ -32,10 +32,10 @@ their Department.
 The student's list will be found their respective year page .
 
 &emsp;
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%202.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%203.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png" height="280" width="160">&emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%202.png" height="280" width="160">&emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%203.png" height="280" width="160">&emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%204.png" height="280" width="160">&emsp;&emsp;
 <img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%205.png" height="280" width="160">
 
 ## Getting Started
