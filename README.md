@@ -2,6 +2,18 @@
 
 This is a mobile application for staffs to view the student's profile.
 
+# Splash Screen
+<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Splash.png">
+
+# Student View
+   For Student's the app will display their personal detail's along with their
+Internal mark, Semester mark, Attendance details, Projects And Certifications(Workshop, Courses,
+along with Seminars, Papers presented) done by them and Students can view the list of Staff's in
+their Department.
+
+<img src="">
+ 
+
 
 
 ## Getting Started
