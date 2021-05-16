@@ -25,7 +25,7 @@ their Department.
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2010.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2011.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2012.png" height="280" width="160">
 
 # Faculty Details
-![Student 13](https://user-images.githubusercontent.com/45664776/118404393-57d42980-b690-11eb-9f63-cdef07c25d86.png)
+&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2013.png" height="280" width="160">
 
 
 
