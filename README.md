@@ -18,7 +18,7 @@ their Department.
 # Profile &emsp;&emsp;&emsp;&emsp; Internal Marks &emsp;&emsp; Exam Results
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%203.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%205.png" height="280" width="160">
 
-# Attendance &emsp;&emsp; Online Certification &emsp;&emsp; Paper Presentation
+# Attendance &emsp;&emsp; Online Certification &emsp; Paper Presentation
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%206.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%207.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%209.png" height="280" width="160">
 
 # Projects &emsp;&emsp;&emsp;&emsp; Seminars &emsp;&emsp;&emsp;&emsp; Workshops
@@ -35,7 +35,7 @@ The student's list will be found their respective year page .
 <img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png" height="280" width="160">&emsp;&emsp;
 <img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%202.png" height="280" width="160">&emsp;&emsp;
 <img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%203.png" height="280" width="160">&emsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%204.png" height="280" width="160">&emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%205.png" height="280" width="160">
 
 ## Getting Started
