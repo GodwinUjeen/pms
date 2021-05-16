@@ -4,7 +4,7 @@ This is a mobile application for staffs to view the student's profile.
 
 # Splash Screen &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Login Page
 <img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Splash.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Login.png" height="280" width="160">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Login.png" height="280" width="160">
 
 # Student View
    For Student's the app will display their personal detail's along with their
