@@ -28,7 +28,7 @@ their Department.
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2013.png" height="280" width="160">
 
 # Staff View 
-&emsp In Staff View Staff's can view their profile and Student's Profile and their Academic details using the app.
+&emsp; In Staff View Staff's can view their profile and Student's Profile and their Academic details using the app.
 The student's list will be found their respective year page .
 
 &emsp;
