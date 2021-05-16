@@ -12,8 +12,8 @@ Internal mark, Semester mark, Attendance details, Projects And Certifications(Wo
 along with Seminars, Papers presented) done by them and Students can view the list of Staff's in
 their Department.
 # Home Screen
-&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%202.png">
+&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%201.png" height="280" width="160"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%202.png" height="280" width="160">
 
 
 
