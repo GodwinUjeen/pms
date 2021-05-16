@@ -11,9 +11,9 @@ This is a mobile application for staffs to view the student's profile.
 Internal mark, Semester mark, Attendance details, Projects And Certifications(Workshop, Courses,
 along with Seminars, Papers presented) done by them and Students can view the list of Staff's in
 their Department.
-
-<img src="">
- 
+# Home Screen
+&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%202.png">
 
 
 
