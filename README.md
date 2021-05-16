@@ -1,6 +1,8 @@
 # pms
 
-A new Flutter application.
+This is a mobile application for staffs to view the student's profile.
+
+
 
 ## Getting Started
 
