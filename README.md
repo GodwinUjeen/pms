@@ -16,7 +16,7 @@ their Department.
 <img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%202.png" height="280" width="160">
 
 # Profile &emsp;&emsp;&emsp;&emsp; Internal Marks &emsp;&emsp;&emsp;&emsp; Semester Marks
-<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%203.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%205.png" height="280" width="160">
+&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%203.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%205.png" height="280" width="160">
 
 
 
