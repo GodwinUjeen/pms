@@ -3,7 +3,7 @@
 This is a mobile application for staffs to view the student's profile.
 
 # Splash Screen
-<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Splash.png" width="100" height="200">
+<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Splash.png" width="100" height="150">
 
 # Student View
    For Student's the app will display their personal detail's along with their
