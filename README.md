@@ -7,7 +7,7 @@ This is a mobile application for staffs to view the student's profile.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Login.png" height="280" width="160">
 
 # Student View
-   For Student's the app will display their personal detail's along with their
+ &emsp  For Student's the app will display their personal detail's along with their
 Internal mark, Semester mark, Attendance details, Projects And Certifications(Workshop, Courses,
 along with Seminars, Papers presented) done by them and Students can view the list of Staff's in
 their Department.
@@ -27,7 +27,11 @@ their Department.
 # Faculty Details
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%2013.png" height="280" width="160">
 
+# Staff View 
+&emsp In Staff View Staff's can view their profile and Student's Profile and their Academic details using the app.
+The student's list will be found their respective year page .
 
+&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%201.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%202.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Staff%203.png" height="280" width="160">
 
 ## Getting Started
 
