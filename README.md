@@ -15,9 +15,11 @@ their Department.
 &emsp;&emsp;<img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%201.png" height="280" width="160"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%202.png" height="280" width="160">
 
-# Profile &emsp;&emsp;&emsp;&emsp; Internal Marks &emsp;&emsp; Semester Marks
+# Profile &emsp;&emsp;&emsp;&emsp; Internal Marks &emsp;&emsp; Exam Results
 &emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%203.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%204.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%205.png" height="280" width="160">
 
+# Attendance &emsp;&emsp;&emsp;&emsp; Online Certification &emsp;&emsp; Paper Presentation
+&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%206.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%207.png" height="280" width="160">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "https://github.com/GodwinUjeen/pms/blob/master/Screenshots/Student%208.png" height="280" width="160">
 
 
 ## Getting Started
